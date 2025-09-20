@@ -1,0 +1,27 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "EchoStream",
+    "homeUrl": "https://echostream.app",
+    "iconUrl": "https://echostream.app/icon.png",
+    "splashImageUrl": "https://echostream.app/splash.png",
+    "splashBackgroundColor": "#1a1625",
+    "subtitle": "Discover, Create, and Own Music Moments Together",
+    "description": "A social music discovery and tipping platform for music fans and indie artists on Base, enabling collaborative playlists, ETH tipping, and artist support.",
+    "screenshotUrls": [
+      "https://echostream.app/screenshot1.png",
+      "https://echostream.app/screenshot2.png",
+      "https://echostream.app/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["music", "discovery", "tipping", "social", "base", "web3"],
+    "heroImageUrl": "https://echostream.app/hero.png",
+    "tagline": "Discover, Create, and Own Music Moments Together",
+    "ogTitle": "EchoStream - Social Music Discovery",
+    "ogDescription": "Discover, create, and own music moments together. Support your favorite artists with ETH tips.",
+    "ogImageUrl": "https://echostream.app/og.png"
+  },
+  "baseBuilder": {
+    "allowedAddresses": []
+  }
+}

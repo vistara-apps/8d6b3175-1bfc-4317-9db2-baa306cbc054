@@ -1,0 +1,14 @@
+{
+  "name": "EchoStream",
+  "description": "EchoStream is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://8d6b3175-1bfc-4317-9db2-baa306cbc054.vercel.app",
+  "properties": {
+    "app": {
+      "name": "EchoStream",
+      "description": "EchoStream is a Base Mini App built with Zara.",
+      "url": "https://8d6b3175-1bfc-4317-9db2-baa306cbc054.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

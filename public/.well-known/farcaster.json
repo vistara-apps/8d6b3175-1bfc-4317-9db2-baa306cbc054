@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "EchoStream",
+    "subtitle": "Built with Zara",
+    "description": "EchoStream is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app",
+    "splashImageUrl": "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app/image.png",
+    "tagline": "EchoStream",
+    "screenshotUrls": [
+      "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app/screenshot.png",
+      "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://8d6b31751bfc43179db2baa306cbc054-z7m5.vercel.app/api/webhook"
+  }
+}
